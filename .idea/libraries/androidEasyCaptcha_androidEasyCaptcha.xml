@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="androidEasyCaptcha.androidEasyCaptcha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/androidEasyCaptcha/androidEasyCaptcha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
